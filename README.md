@@ -1,2 +1,2 @@
-# excel-dashboard
-dashboards completed in excel to analyze consumer and sales data
+# Excel
+Dashboards completed in MS Excel to analyze consumer and sales data.
