@@ -1,5 +1,5 @@
-# Bike Sales Dashboard: Business Analysis
-• Created an interactive Excel dashboard in order to determine a mock company's customer base and other ad-hoc data
+# HR Analytics Dashboard: Business Analysis
+• Created an interactive dashboard in PowerBI in order to interpret Human Resources metrics and understand company retention and employee metrics
 
 ## Programs Used
-Microsoft Excel 
+Power BI
